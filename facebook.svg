@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 
+Descripcion: Imagen no me veras FaceBook
+             Subtitulo alternativo "FaceBook te Gusta!"
+Autor:       Fitorec
+ -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-952.36218)"
+     id="faceBookTeGusta">
+    <path
+       d="m 62.148925,1023.732 -20.84399,0.1263 -0.21557,-7.6199 -2.33937,-0.3941 0,-3.8393 -4.01786,0.089 0.0893,-3.75 -11.33929,-0.089 -2.90415,-3.0083 2.77795,-3.8921 7.42604,-1.76776 7.48917,0.82076 0.44642,-12.69278 6.06881,-0.63134 0.26336,3.61925 1.45101,-0.0848 0.92535,-25.72531 1.80011,-2.73869 3.04662,0.27215 1.5314,2.03992 0.0676,26.02117 1.84251,0.17857 0.26785,-3.92857 4.91072,-0.35714 0.50508,4.00703 0.62127,-0.037 0.50108,-3.10533 4.67086,1.31498 0.004,16.18509 -2.37359,0.8316 0,7.5365 -2.04134,0.253 z"
+       id="mano"
+       style="fill:#ffffff;fill-opacity:1;stroke:#3b5a91;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="26.709793"
+       height="13.75"
+       ry="0"
+       x="38.876274"
+       y="1024.9976"
+       id="manga"
+       style="fill:#778db2;fill-opacity:1;fill-rule:evenodd;stroke:#3b5a91;stroke-width:2.96139503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
